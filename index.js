@@ -1,6 +1,6 @@
 
 console.log('It is working fine');
-// function akash(){
+// function abc(){
 //    document.getElementById("panel-1").classList.add("expansion");
 // }
 
